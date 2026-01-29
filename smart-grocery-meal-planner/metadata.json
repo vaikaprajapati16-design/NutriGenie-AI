@@ -1,0 +1,5 @@
+{
+  "name": "NutriGenie AI",
+  "description": "A sophisticated AI-powered nutrition expert that generates personalized 7-day meal plans based on your dietary preferences, calorie goals, and allergies.",
+  "requestFramePermissions": []
+}
